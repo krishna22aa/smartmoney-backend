@@ -1,0 +1,26 @@
+{
+  "date": "2025-06-06",
+  "alerts": [
+    {
+      "symbol": "NABIL",
+      "type": "Buy",
+      "confidence": "High",
+      "priceChangePercent": 2.4,
+      "volumeSpike": 140
+    },
+    {
+      "symbol": "PRVU",
+      "type": "Sell",
+      "confidence": "Medium",
+      "priceChangePercent": -1.7,
+      "volumeSpike": 100
+    },
+    {
+      "symbol": "NRIC",
+      "type": "Buy",
+      "confidence": "Low",
+      "priceChangePercent": 1.1,
+      "volumeSpike": 80
+    }
+  ]
+}
